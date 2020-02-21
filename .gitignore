@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+*.swo
+*.swp
+__pycache__
+*egg-info
+*,cover
+.coverage
+.tox
+coverage.xml
+build
+dist
